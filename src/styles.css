@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header {
+  background-color: #fceda7;
+}
+
+.headerBrand {
+  text-align: center;
+  width: 100%;
+}
+
+.tabContent {
+  height: 400px;
+}
+
+.media {
+  margin-left: auto;
+  margin-right: auto;
+  width: 12em;
+}
+
+.noLineBreak {
+  white-space: pre-line;
+}
